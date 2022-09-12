@@ -1,6 +1,6 @@
 #include <stdio.h> 
- #include <stdlib.h> 
- #include <time.h> 
+#include <stdlib.h> 
+#include <time.h> 
  /** 
   * main -entry point 
   * Description: prints a random number and checks 
@@ -25,6 +25,5 @@
          { 
                  printf("%d is negative\n", n); 
          } 
-         return (0); 
-  
- }
+         return (0);  
+}
