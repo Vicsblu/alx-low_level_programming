@@ -3,8 +3,7 @@
 #include <time.h>
 /**
 * main -entry point
-* Description: prints a random number
-and checks
+* Description: prints a random number and checks
 * if the number is positive or negative
 * Return: 0
 */
