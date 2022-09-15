@@ -2,13 +2,13 @@
 /**
 * main - Code entry
 *
-* Description: This program prints _putchar
+* Description: This program prints -putchar
 *
 * Return: 0
 */
 int main(void)
 {
-_putchar('_');
+_putchar('-');
 _putchar('p');
 _putchar('u');
 _putchar('t');
