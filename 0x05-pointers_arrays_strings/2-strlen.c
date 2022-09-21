@@ -7,9 +7,8 @@
  *Return: void that means our answer is correct
 */
 int _strlen(char *s)
-
 {
-int i
-for(i = 0; s[i] != '\0'; i++);
-return (i)
+	int c
+		for(c = 0 ; s[c] != '/0' ; c++)
+			return (c)
 }
